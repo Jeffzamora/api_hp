@@ -13,11 +13,23 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
+/*Yadira Diaz*/
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 /*Gisselle Calero*/
 
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+/*el mostro hizo un cambio*/
+=======
+=======
+=======
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
 /*Clase Practica Sergio Duarte*/
 =======
 <<<<<<< HEAD
@@ -26,11 +38,19 @@
 /*Sugeylin Perez*/
 =======
 >>>>>>> 62fd30dcd48e55238d5a464c98a258c7a13e928a
+>>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
 /* Amy Espinoza*/
 =======
 <<<<<<< HEAD
-/*Hola, me regalan una pc?*/
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+<<<<<<< HEAD
+=======
+/*Hola, me regalan una pc?*/
+<<<<<<< HEAD
+>>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
+=======
+>>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
 >>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
 =======
 
@@ -49,4 +69,8 @@
 =======
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+<<<<<<< HEAD
 >>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
+=======
+>>>>>>> a66cf0c00ea58fc908ab6cb28e8b4b554b247471
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
