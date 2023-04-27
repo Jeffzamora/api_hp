@@ -14,8 +14,14 @@
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
 <<<<<<< HEAD
+/*Clase Practica Sergio Duarte*/
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 /*Sugeylin Perez*/
 =======
+>>>>>>> 62fd30dcd48e55238d5a464c98a258c7a13e928a
 /* Amy Espinoza*/
 =======
 <<<<<<< HEAD
