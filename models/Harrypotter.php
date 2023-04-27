@@ -30,6 +30,11 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+/*Hola. Leo Zamora*/
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 /*Eliezer Rodriguez*/
 =======
 <<<<<<< HEAD
@@ -71,6 +76,7 @@
 <<<<<<< HEAD
 =======
 >>>>>>> 124a69ac24affbf921fd34e4c88ca454d45df685
+>>>>>>> 53926c450a07935ead750049674540b8977d48e2
 /*Hola, me regalan una pc?*/
 <<<<<<< HEAD
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
@@ -94,6 +100,9 @@
 <<<<<<< HEAD
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
 =======
+=======
+<<<<<<< HEAD
+>>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 =======
 <<<<<<< HEAD
 =======
