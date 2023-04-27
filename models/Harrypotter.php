@@ -1,4 +1,4 @@
-<?php
+?php
     class Harry extends Conectar{
 
         public function get_harry(){
@@ -12,3 +12,4 @@
     }
 
 /*clase practica de UNP 3 y 4 año*/
+/*Sugeylin Perez*/
