@@ -18,6 +18,9 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
+/*Hola, bienvenidos; att: Jordin*/
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 /*Hola. Leo Zamora*/
 =======
