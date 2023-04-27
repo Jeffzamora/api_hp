@@ -27,12 +27,19 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+/*Gisselle Calero*/
+
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 /*el mostro hizo un cambio*/
 =======
 =======
 =======
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
 /*Clase Practica Sergio Duarte*/
 =======
 <<<<<<< HEAD
@@ -46,12 +53,18 @@
 =======
 <<<<<<< HEAD
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+<<<<<<< HEAD
 >>>>>>> 3ddae3768da641d3b9ce41a293921cb207b64006
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 124a69ac24affbf921fd34e4c88ca454d45df685
 /*Hola, me regalan una pc?*/
 <<<<<<< HEAD
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 =======
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
 >>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
 =======
 
@@ -69,7 +82,16 @@
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+<<<<<<< HEAD
+>>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
+=======
 >>>>>>> a66cf0c00ea58fc908ab6cb28e8b4b554b247471
+<<<<<<< HEAD
 >>>>>>> 3ddae3768da641d3b9ce41a293921cb207b64006
+=======
+>>>>>>> b0f300c5cc33513d4553258d676532a755679402
+>>>>>>> 124a69ac24affbf921fd34e4c88ca454d45df685
