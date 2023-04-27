@@ -13,6 +13,9 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
+/*Yadira Diaz*/
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -54,3 +57,4 @@
 =======
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 >>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+>>>>>>> a66cf0c00ea58fc908ab6cb28e8b4b554b247471
