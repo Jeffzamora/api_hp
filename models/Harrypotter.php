@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7dd217b0d7739078b132fa63c90f48fd6c5cb420
 
 <?php
 =======
@@ -18,10 +21,18 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*Jorge Avalos*/
 
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/* Hi Andrea Ruiz*/
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 6dd2d9e469472beefc54b353caf436c283dc1aba
 /*Hola, bienvenidos; att: Jordin*/
 =======
 <<<<<<< HEAD
@@ -61,6 +72,7 @@
 =======
 >>>>>>> 62fd30dcd48e55238d5a464c98a258c7a13e928a
 >>>>>>> cf487e0cb02b7a377645fc5541394bc861e9ea68
+>>>>>>> 7dd217b0d7739078b132fa63c90f48fd6c5cb420
 /* Amy Espinoza*/
 =======
 <<<<<<< HEAD
@@ -92,6 +104,9 @@
 >>>>>>> da3a7b29cd3a8ae146b16696d4b462e436650f0d
 <<<<<<< HEAD
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
+<<<<<<< HEAD
+>>>>>>> c8931a174d77ed5ad81062e73ee1c5c37c7ecbbd
+=======
 =======
 <<<<<<< HEAD
 >>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
@@ -112,4 +127,8 @@
 >>>>>>> b0f300c5cc33513d4553258d676532a755679402
 >>>>>>> 124a69ac24affbf921fd34e4c88ca454d45df685
 >>>>>>> 53926c450a07935ead750049674540b8977d48e2
+<<<<<<< HEAD
 >>>>>>> cdbd934f8cf186559c1c3278818901fe75cc388d
+=======
+>>>>>>> 7dd217b0d7739078b132fa63c90f48fd6c5cb420
+>>>>>>> 6dd2d9e469472beefc54b353caf436c283dc1aba
