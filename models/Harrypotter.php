@@ -12,5 +12,17 @@
     }
 
 /*clase practica de UNP 3 y 4 año*/
+<<<<<<< HEAD
 /*Gisselle Calero*/
 
+=======
+
+
+
+
+
+
+
+
+/*Prueba*/
+>>>>>>> da3a7b29cd3a8ae146b16696d4b462e436650f0d
