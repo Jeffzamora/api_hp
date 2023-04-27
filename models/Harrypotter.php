@@ -13,7 +13,11 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*el mostro hizo un cambio*/
+=======
+/*Hola, me regalan una pc?*/
+>>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
 =======
 
 
