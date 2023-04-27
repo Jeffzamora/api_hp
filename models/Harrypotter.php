@@ -14,7 +14,7 @@
 
 /*clase practica de UNP 3 y 4 año*/
 <<<<<<< HEAD
-/*Andrea Ruiz*/
+/* Hi Andrea Ruiz*/
 =======
 <<<<<<< HEAD
 /* Amy Espinoza*/
