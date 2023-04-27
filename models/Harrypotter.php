@@ -12,4 +12,20 @@
     }
 
 /*clase practica de UNP 3 y 4 año*/
+<<<<<<< HEAD
 /*Hola. Leo Zamora*/
+=======
+<<<<<<< HEAD
+/*Hola, me regalan una pc?*/
+=======
+
+
+
+
+
+
+
+
+/*Prueba*/
+>>>>>>> da3a7b29cd3a8ae146b16696d4b462e436650f0d
+>>>>>>> aa7d10cdbb8514abb7782845c14112327ccf5041
